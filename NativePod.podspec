@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      =  'Desc for PhotoBrowser.'
+  s.description      =  'Desc for PhotoBrowser newly description.'
 
 # TODO: Add long description of the pod here.
                     #   DESC
