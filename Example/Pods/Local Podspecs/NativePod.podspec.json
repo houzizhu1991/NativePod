@@ -1,8 +1,8 @@
 {
   "name": "NativePod",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Classes for PhotoBrowser.",
-  "description": "Desc for PhotoBrowser.",
+  "description": "Desc for PhotoBrowser newly description.",
   "homepage": "https://github.com/houzizhu1991/NativePod",
   "license": {
     "type": "MIT",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/houzizhu1991/NativePod.git",
-    "tag": "0.1.0"
+    "tag": "0.1.1"
   },
   "platforms": {
     "ios": "8.0"

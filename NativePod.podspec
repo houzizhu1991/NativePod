@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'NativePod'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'Classes for PhotoBrowser.'
 
 # This description is used to generate tags and improve search results.
@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      =  'Desc for PhotoBrowser newly description.'
+  s.description      =  'Desc for PhotoBrowser newly description1.'
 
 # TODO: Add long description of the pod here.
                     #   DESC
